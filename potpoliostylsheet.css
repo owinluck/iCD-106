@@ -1,0 +1,49 @@
+.main{
+    display: flex;
+}
+
+.Pimg{
+    border-radius: 50%;
+}
+
+.left{
+
+    margin: 64px 0 0 78px;
+}
+
+.rightBox{
+    margin: 24px 0 0 28px;
+}
+
+.right{
+    margin: 0 0 -11px 0;
+}
+
+.Education{
+    margin: 0 0 0 76px;
+}
+
+.Edu-Edite{
+    margin: 0 0 14.44px 0;
+}
+
+.Work{
+    margin: 0 0 0 76px;
+}
+.work-Edite{
+    margin: 0 0 -6px 0;
+}
+.projects{
+    margin: 0 0 0 76px;
+}
+
+.projects-Edite{
+    margin: 0 0 -9px 0;
+}
+.summary{
+    margin: 0 0 0 76px;
+}
+
+#back{
+    background-color: rgb(221, 218, 218);
+}
